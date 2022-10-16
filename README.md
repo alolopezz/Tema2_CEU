@@ -1,5 +1,5 @@
 # Tema2_CEU
-Ejercicio 1
+##Ejercicio 1
 Teoría previa
 
 En este ejercicio vas a trabajar el concepto de puntos, coordenadas y vectores sobre el plano cartesiano y cómo la programación Orientada a Objetos puede ser una excelente aliada para trabajar con ellos. No está pensado para que hagas ningún tipo de cálculo sino para que practiques la automatización de tareas.
@@ -85,7 +85,7 @@ Crea un rectángulo utilizando los puntos A y B.
 Consulta la base, altura y área del rectángulo.
 
 
-Ejercicio 2
+##Ejercicio 2
 Utilizando todo lo que sabes sobre cadenas, listas, sus métodos internos... Transforma este texto:
 
 un día que el viento soplaba con fuerza#mira como se mueve aquella banderola -dijo un monje#lo que se mueve es el viento -respondió otro monje#ni las banderolas ni el viento, lo que se mueve son vuestras mentes -dijo el maestro
@@ -102,7 +102,7 @@ Un día que el viento soplaba con fuerza...
 
 Lo único prohibido es modificar directamente el texto.
 
-Ejercicio 3
+##Ejercicio 3
 Crea una función modificar() que a partir de una lista de números realice las siguientes tareas sin modificar la original:
 
 Borrar los elementos duplicados.
